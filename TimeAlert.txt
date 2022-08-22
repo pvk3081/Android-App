@@ -1,0 +1,20 @@
+Save your time with Time Alert App.
+
+
+Time Alert is a free light app alert tool to alert you about your time spent on the apps. You can use the Time Alert application to keep track of your usage time on your phone. 
+
+This app is designed for those who often keep losing track of time and end up wasting a lot of time on other phone applications. This app would help you with it. When you open an application it automatically starts the timer, you don't have to set it each time.
+ 
+--How this will help me--
+After the timer expires, your phone will keep on vibrating until you select 'extend time' or 'Cancel'. This will alert your conscious mind and then you can stop using your phone.
+There is also a goal section where you can add your goals which will be displayed after your timer expires.
+
+--How it Works--
+- Download and go in setting and enable the application.
+- After that, select the apps for which you want to execute this application.
+- Set your time in the settings tab.
+- Also, set your goals, if any in the settings tab.
+- When you open an app that you selected, a timer starts automatically in 
+    the notification with the time that you have set in the settings.
+- After the time expires your phone will keep vibrating until you extend the 
+    time or cancel the time.
